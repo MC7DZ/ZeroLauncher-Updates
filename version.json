@@ -16,7 +16,7 @@
     ]
   },
   "linux": {
-    "version": "2.1.0",
+    "version": "2.4.0",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.1.0/Zero.Launcher.AppImage",
     "size_mb": 78.6,
     "changelog": [
