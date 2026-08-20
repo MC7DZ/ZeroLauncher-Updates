@@ -1,34 +1,29 @@
 {
   "windows": {
     "version": "2.1.0",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.1.0/Zero.Launcher.exe",
-    "size_mb": 7.59,
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.0/Zero.Launcher.exe",
+    "size_mb": 7.88,
     "changelog": [
-      "Fixed Minecraft Forge Installer",
-      "Added a real per-file progress bar to the Files — Installing… window",
-      "Added window behavior section in settings",
-      "Fixed problems with directories in Windows",
-      "Fixed resource packs section sharing the same filters as the mods section",
-      "Added auto-check for launcher updates",
-      "Added play time counter in instances section under Game Directory",
-      "Optimized the launcher to be lighter and more RAM-friendly",
-      "Fixed an issue where resetting settings caused instances to disappear"
+      "Fixed some bugs with Forge installer",
+      "Added checking for missing assets and libraries",
+      "Added offline launch",
+      "Added modpack extractor (still bugged)",
+      "The dressing room is now working",
+      "Fixed the presets are not showing"
     ]
   },
   "linux": {
     "version": "2.1.0",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.1.0/Zero.Launcher.AppImage",
-    "size_mb": 78.6,
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.0/Zero.Launcher.AppImage",
+    "size_mb": 78.67,
     "changelog": [
-      "Fixed Minecraft Forge Installer",
-      "Added a real per-file progress bar to the Files — Installing… window",
-      "Added window behavior section in settings",
-      "Fixed problems with directories in Windows",
-      "Fixed resource packs section sharing the same filters as the mods section",
-      "Added auto-check for launcher updates",
-      "Added play time counter in instances section under Game Directory",
-      "Optimized the launcher to be lighter and more RAM-friendly",
-      "Fixed an issue where resetting settings caused instances to disappear"
+      "Fixed some bugs with Forge installer",
+      "Added checking for missing assets and libraries",
+      "Added offline launch",
+      "Added modpack extractor (still bugged)",
+      "The dressing room is now working",
+      "Fixed some lag on Linux WebKitGTK in some spots",
+      "Fixed the presets are not showing"
     ]
   }
 }
