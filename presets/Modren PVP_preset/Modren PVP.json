@@ -7,12 +7,6 @@
   ],
   "mods": [
     {
-      "name": "Better Hitreg",
-      "fileName": "BetterHitreg-1.0.6+1.21.11.jar",
-      "modrinthId": "MIKwzoiY",
-      "modrinthUrl": "https://modrinth.com/mod/MIKwzoiY"
-    },
-    {
       "name": "Consumable Optimizer",
       "fileName": "ConsumableOptimizer-2.2.2-26.1.jar",
       "modrinthId": "4alTd2ag",
@@ -55,6 +49,12 @@
       "modrinthUrl": "https://modrinth.com/mod/7P86n6Vg"
     },
     {
+      "name": "Bobby",
+      "fileName": "bobby-5.2.11.1+mc1.21.11.jar",
+      "modrinthId": "M08ruV16",
+      "modrinthUrl": "https://modrinth.com/mod/M08ruV16"
+    },
+    {
       "name": "AppleSkin",
       "fileName": "appleskin-fabric-mc26.2-3.0.10.jar",
       "modrinthId": "EsAfCjCV",
@@ -77,12 +77,6 @@
       "fileName": "combat-hitbox-1.0.11.jar",
       "modrinthId": "geGZinIB",
       "modrinthUrl": "https://modrinth.com/mod/geGZinIB"
-    },
-    {
-      "name": "DropConfirm",
-      "fileName": "drop_confirm-6.1.1.jar",
-      "modrinthId": "I45rjF2F",
-      "modrinthUrl": "https://modrinth.com/mod/I45rjF2F"
     },
     {
       "name": "Effect Timer Plus",

@@ -99,6 +99,12 @@
       "modrinthUrl": "https://modrinth.com/mod/PtjYWJkn"
     },
     {
+      "name": "Bobby",
+      "fileName": "bobby-5.2.11.1+mc1.21.11.jar",
+      "modrinthId": "M08ruV16",
+      "modrinthUrl": "https://modrinth.com/mod/M08ruV16"
+    },
+    {
       "name": "Sodium",
       "fileName": "sodium-fabric-0.9.1+mc26.1.2.jar",
       "modrinthId": "AANobbMI",
