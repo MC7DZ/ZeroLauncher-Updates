@@ -1,29 +1,27 @@
 {
   "windows": {
-    "version": "2.2.0",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.0/Zero.Launcher.exe",
-    "size_mb": 7.88,
+    "version": "2.2.1",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.exe",
+    "size_mb": 7.87,
     "changelog": [
-      "Fixed some bugs with Forge installer",
-      "Added checking for missing assets and libraries",
-      "Added offline launch",
-      "Added modpack extractor (still bugged)",
-      "The dressing room is now working",
-      "Fixed the presets are not showing"
+      "Added 15+ background base color theme palettes",
+      "Optimized CPU and RAM performance",
+      "Completely fixed the Forge installer and modpack extractor",
+      "Fixed presets not updating the current presets",
+      "Updated the launcher logo"
     ]
   },
   "linux": {
-    "version": "2.2.0",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.0/Zero.Launcher.AppImage",
-    "size_mb": 78.67,
+    "version": "2.2.1",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.AppImage",
+    "size_mb": 78.7,
     "changelog": [
-      "Fixed some bugs with Forge installer",
-      "Added checking for missing assets and libraries",
-      "Added offline launch",
-      "Added modpack extractor (still bugged)",
-      "The dressing room is now working",
-      "Fixed some lag on Linux WebKitGTK in some spots",
-      "Fixed the presets are not showing"
+      "Fixed rendering and stability issues on Wayland Linux",
+      "Added 15+ background base color theme palettes",
+      "Optimized CPU and RAM performance",
+      "Completely fixed the Forge installer and modpack extractor",
+      "Fixed presets not updating the current presets",
+      "Updated the launcher logo"
     ]
   }
 }
