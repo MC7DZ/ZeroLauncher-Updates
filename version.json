@@ -1,7 +1,7 @@
 {
   "windows": {
     "version": "2.2.1",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.exe",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.exe",
     "size_mb": 3.01,
     "changelog": [
       "Changed 3D skin settings button to a 3-dot icon instead of a gear",
@@ -19,7 +19,7 @@
   },
   "linux": {
     "version": "2.2.2",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.AppImage",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.AppImage",
     "size_mb": 78.55,
     "changelog": [
       "Changed 3D skin settings button to a 3-dot icon instead of a gear",
