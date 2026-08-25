@@ -1,8 +1,8 @@
 {
   "windows": {
-    "version": "2.2.1",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.exe",
-    "size_mb": 3.01,
+    "version": "2.2.2",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.exe",
+    "size_mb": 8.45,
     "changelog": [
       "Changed 3D skin settings button to a 3-dot icon instead of a gear",
       "Fixed player name still displaying in Account Manager and Accounts button when using unknown name tag",
