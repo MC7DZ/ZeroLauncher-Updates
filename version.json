@@ -1,27 +1,37 @@
 {
   "windows": {
     "version": "2.2.1",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.exe",
-    "size_mb": 7.87,
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.exe",
+    "size_mb": 3.01,
     "changelog": [
-      "Added 15+ background base color theme palettes",
-      "Optimized CPU and RAM performance",
-      "Completely fixed the Forge installer and modpack extractor",
-      "Fixed presets not updating the current presets",
-      "Updated the launcher logo"
+      "Changed 3D skin settings button to a 3-dot icon instead of a gear",
+      "Fixed player name still displaying in Account Manager and Accounts button when using unknown name tag",
+      "Completely remade the Settings section",
+      "Fixed Minecraft not being detected as a game in Discord",
+      "Fixed preset card backgrounds not matching standard backgrounds",
+      "Added click sounds",
+      "Added game version to the modloader, game directory, and playtime panel",
+      "Added custom right-click context menu",
+      "Added smooth window resizing animation",
+      "Fixed Setup Wizard resetting notification, background, and animation styles to default when changed",
+      "Fixed application icon not updating on Windows"
     ]
   },
   "linux": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.1/Zero.Launcher.AppImage",
-    "size_mb": 78.7,
+    "size_mb": 78.55,
     "changelog": [
-      "Fixed rendering and stability issues on Wayland Linux",
-      "Added 15+ background base color theme palettes",
-      "Optimized CPU and RAM performance",
-      "Completely fixed the Forge installer and modpack extractor",
-      "Fixed presets not updating the current presets",
-      "Updated the launcher logo"
+      "Changed 3D skin settings button to a 3-dot icon instead of a gear",
+      "Fixed player name still displaying in Account Manager and Accounts button when using unknown name tag",
+      "Completely remade the Settings section",
+      "Fixed Minecraft not being detected as a game in Discord",
+      "Fixed preset card backgrounds not matching standard backgrounds",
+      "Added click sounds",
+      "Added game version to the modloader, game directory, and playtime panel",
+      "Added custom right-click context menu",
+      "Added smooth window resizing animation",
+      "Fixed Setup Wizard resetting notification, background, and animation styles to default when changed"
     ]
   }
 }
