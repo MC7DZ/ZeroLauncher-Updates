@@ -1,37 +1,24 @@
 {
   "windows": {
-    "version": "2.2.2",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.exe",
-    "size_mb": 8.45,
+    "version": "2.2.3",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.3/Zero.Launcher.exe",
+    "size_mb": 8.48,
     "changelog": [
-      "Changed 3D skin settings button to a 3-dot icon instead of a gear",
-      "Fixed player name still displaying in Account Manager and Accounts button when using unknown name tag",
-      "Completely remade the Settings section",
-      "Fixed Minecraft not being detected as a game in Discord",
-      "Fixed preset card backgrounds not matching standard backgrounds",
-      "Added click sounds",
-      "Added game version to the modloader, game directory, and playtime panel",
-      "Added custom right-click context menu",
-      "Added smooth window resizing animation",
-      "Fixed Setup Wizard resetting notification, background, and animation styles to default when changed",
-      "Fixed application icon not updating on Windows"
+      "Added modpacks in the Discover section",
+      "Reworked Instances UI",
+      "Fixed modpack extraction issues",
+      "Fixed mod updating and downloading issues"
     ]
   },
   "linux": {
-    "version": "2.2.2",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.2/Zero.Launcher.AppImage",
-    "size_mb": 78.55,
+    "version": "2.2.3",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.3/Zero.Launcher.AppImage",
+    "size_mb": 78.56,
     "changelog": [
-      "Changed 3D skin settings button to a 3-dot icon instead of a gear",
-      "Fixed player name still displaying in Account Manager and Accounts button when using unknown name tag",
-      "Completely remade the Settings section",
-      "Fixed Minecraft not being detected as a game in Discord",
-      "Fixed preset card backgrounds not matching standard backgrounds",
-      "Added click sounds",
-      "Added game version to the modloader, game directory, and playtime panel",
-      "Added custom right-click context menu",
-      "Added smooth window resizing animation",
-      "Fixed Setup Wizard resetting notification, background, and animation styles to default when changed"
+      "Added modpacks in the Discover section",
+      "Reworked Instances UI",
+      "Fixed modpack extraction issues",
+      "Fixed mod updating and downloading issues"
     ]
   }
 }
