@@ -1,24 +1,21 @@
 {
   "windows": {
-    "version": "2.2.3",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.3/Zero.Launcher.exe",
-    "size_mb": 8.48,
+    "version": "2.2.4",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.4/Zero.Launcher.exe",
+    "size_mb": 8.52,
     "changelog": [
-      "Added modpacks in the Discover section",
-      "Reworked Instances UI",
-      "Fixed modpack extraction issues",
-      "Fixed mod updating and downloading issues"
+      "Added global status and Play Time Analyzer",
+      "New Dressing Room Design "
     ]
   },
   "linux": {
-    "version": "2.2.3",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.3/Zero.Launcher.AppImage",
-    "size_mb": 78.56,
+    "version": "2.2.4",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.4/Zero.Launcher.AppImage",
+    "size_mb": 78.58,
     "changelog": [
-      "Added modpacks in the Discover section",
-      "Reworked Instances UI",
-      "Fixed modpack extraction issues",
-      "Fixed mod updating and downloading issues"
+      "Added global status and Play Time Analyzer",
+      "New Dressing Room Design "
+      
     ]
   }
 }
