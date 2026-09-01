@@ -1,20 +1,26 @@
 {
   "windows": {
-    "version": "2.2.4",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.4/Zero.Launcher.exe",
-    "size_mb": 8.52,
+    "version": "2.2.5",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.5/Zero.Launcher.exe",
+    "size_mb": 8.61,
     "changelog": [
-      "Added global status and Play Time Analyzer",
-      "New Dressing Room Design "
+      "add custom title bar improve some performance",
+      "organize the settings more",
+      "fix some problems with the UI ",
+      "add shaderpacks on the Discover",
+      "more small fixes "
     ]
   },
   "linux": {
-    "version": "2.2.4",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.4/Zero.Launcher.AppImage",
+    "version": "2.2.5",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.5/Zero.Launcher.AppImage",
     "size_mb": 78.58,
     "changelog": [
-      "Added global status and Play Time Analyzer",
-      "New Dressing Room Design "
+      "add custom title bar improve some performance",
+      "organize the settings more",
+      "fix some problems with the UI ",
+      "add shaderpacks on the Discover",
+      "more small fixes "
       
     ]
   }
