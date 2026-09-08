@@ -1,27 +1,28 @@
 {
   "windows": {
-    "version": "2.2.5",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.5/Zero.Launcher.exe",
-    "size_mb": 8.61,
+    "version": "2.2.6",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.exe",
+    "size_mb": 8.6,
     "changelog": [
-      "add custom title bar improve some performance",
-      "organize the settings more",
-      "fix some problems with the UI ",
-      "add shaderpacks on the Discover",
-      "more small fixes "
+      "remove the music library (wasn't working)",
+      "fix some bugs",
+      "add new animation style star field",
+      "add hardware acceleration",
+      "fix the modpacks directory",
+      "add custom scroll bar"
     ]
   },
   "linux": {
-    "version": "2.2.5",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.5/Zero.Launcher.AppImage",
-    "size_mb": 78.58,
+    "version": "2.2.6",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.AppImage",
+    "size_mb": 78.6,
     "changelog": [
-      "add custom title bar improve some performance",
-      "organize the settings more",
-      "fix some problems with the UI ",
-      "add shaderpacks on the Discover",
-      "more small fixes "
-      
+      "remove the music library (wasn't working)",
+      "fix some bugs",
+      "add new animation style star field",
+      "add hardware acceleration",
+      "fix the modpacks directory",
+      "add custom scroll bar"
     ]
   }
 }
