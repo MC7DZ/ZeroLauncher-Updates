@@ -4,12 +4,12 @@
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.exe",
     "size_mb": 8.6,
     "changelog": [
-      "remove the music library (wasn't working)",
-      "fix some bugs",
-      "add new animation style star field",
-      "add hardware acceleration",
-      "fix the modpacks directory",
-      "add custom scroll bar"
+      "Remove the music library (was not working)",
+      "Fix various bugs",
+      "Add new star field animation style",
+      "Add hardware acceleration",
+      "Fix the modpacks directory",
+      "Add custom scrollbar"
     ]
   },
   "linux": {
@@ -17,12 +17,12 @@
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.AppImage",
     "size_mb": 78.6,
     "changelog": [
-      "remove the music library (wasn't working)",
-      "fix some bugs",
-      "add new animation style star field",
-      "add hardware acceleration",
-      "fix the modpacks directory",
-      "add custom scroll bar"
+      "Remove the music library (was not working)",
+      "Fix various bugs",
+      "Add new star field animation style",
+      "Add hardware acceleration",
+      "Fix the modpacks directory",
+      "Add custom scrollbar"
     ]
   }
 }
