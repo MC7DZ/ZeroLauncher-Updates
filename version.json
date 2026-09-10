@@ -1,28 +1,26 @@
 {
   "windows": {
-    "version": "2.2.6",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.exe",
-    "size_mb": 8.6,
+    "version": "2.2.7",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.exe",
+    "size_mb": 8.65,
     "changelog": [
-      "Remove the music library (was not working)",
-      "Fix various bugs",
-      "Add new star field animation style",
-      "Add hardware acceleration",
-      "Fix the modpacks directory",
-      "Add custom scrollbar"
+      "Add project details window when clicking on cards in the discover section",
+      "Rename 'mods' tab to 'manage' tab",
+      "Fix issues with hidden instances",
+      "Fix issues with zlib",
+      "Set Noto Sans as default font and add Minecraft font"
     ]
   },
   "linux": {
-    "version": "2.2.6",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.6/Zero.Launcher.AppImage",
-    "size_mb": 78.6,
+    "version": "2.2.7",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.AppImage",
+    "size_mb": 78.65,
     "changelog": [
-      "Remove the music library (was not working)",
-      "Fix various bugs",
-      "Add new star field animation style",
-      "Add hardware acceleration",
-      "Fix the modpacks directory",
-      "Add custom scrollbar"
+      "Add project details window when clicking on cards in the discover section",
+      "Rename 'mods' tab to 'manage' tab",
+      "Fix issues with hidden instances",
+      "Fix issues with zlib",
+      "Set Noto Sans as default font and add Minecraft font"
     ]
   }
 }
