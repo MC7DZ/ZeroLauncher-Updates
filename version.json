@@ -12,7 +12,7 @@
     ]
   },
   "linux": {
-    "version": "2.2.9999",
+    "version": "2.2.7",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.AppImage",
     "zsync_url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.AppImage.zsync",
     "size_mb": 78.65,
