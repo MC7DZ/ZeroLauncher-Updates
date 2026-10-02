@@ -1,28 +1,30 @@
 {
   "windows": {
-    "version": "2.2.7",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.exe",
-    "size_mb": 8.65,
+    "version": "2.2.8",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.8/Zero.Launcher.exe",
+    "size_mb": 9.05,
     "changelog": [
-      "Add project details window when clicking on cards in the discover section",
-      "Rename 'mods' tab to 'manage' tab",
-      "Fix issues with hidden instances",
-      "Fix issues with zlib",
-      "Set Noto Sans as default font and add Minecraft font"
+      "fix some bugs",
+      "add nice & smooth animation for some parts",
+      "add desktop shourtcuts",
+      "redesign the accounts manager",
+      "add ely.by skins account system",
+      "add resourcepack/shaderpack/screenshots/servers/worlds in the manage tab"
     ]
   },
   "linux": {
-    "version": "2.2.7",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.AppImage",
-    "zsync_url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.7/Zero.Launcher.AppImage.zsync",
-    "size_mb": 78.65,
-    "zsync_size_mb": 10.0,
+    "version": "2.2.8",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.8/Zero.Launcher.AppImage",
+    "zsync_url": "",
+    "size_mb": 79.8,
+    "zsync_size_mb": 0,
     "changelog": [
-      "Add project details window when clicking on cards in the discover section",
-      "Rename 'mods' tab to 'manage' tab",
-      "Fix issues with hidden instances",
-      "Fix issues with zlib",
-      "Set Noto Sans as default font and add Minecraft font"
+      "fix some bugs",
+      "add nice & smooth animation for some parts",
+      "add desktop shourtcuts",
+      "redesign the accounts manager",
+      "add ely.by skins account system",
+      "add resourcepack/shaderpack/screenshots/servers/worlds in the manage tab"
     ]
   }
 }
