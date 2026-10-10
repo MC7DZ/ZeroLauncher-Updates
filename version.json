@@ -1,30 +1,28 @@
 {
   "windows": {
-    "version": "2.2.8",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.8/Zero.Launcher.exe",
-    "size_mb": 9.05,
+    "version": "2.2.9",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.exe",
+    "size_mb": 9.06,
     "changelog": [
-      "fix some bugs",
-      "add nice & smooth animation for some parts",
-      "add desktop shourtcuts",
-      "redesign the accounts manager",
-      "add ely.by skins account system",
-      "add resourcepack/shaderpack/screenshots/servers/worlds in the manage tab"
+      "fix bugs on windows",
+      "fix downloading of some old minecraft version >1.18 ",
+      "add more animation && Quality of life",
+      "improvement with behavior and launch",
+      "improve desktop shortcut launching ui"
     ]
   },
   "linux": {
-    "version": "2.2.8",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.8/Zero.Launcher.AppImage",
+    "version": "2.2.9",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.AppImage",
     "zsync_url": "",
-    "size_mb": 79.8,
+    "size_mb": 79.85,
     "zsync_size_mb": 0,
     "changelog": [
-      "fix some bugs",
-      "add nice & smooth animation for some parts",
-      "add desktop shourtcuts",
-      "redesign the accounts manager",
-      "add ely.by skins account system",
-      "add resourcepack/shaderpack/screenshots/servers/worlds in the manage tab"
+      "fix bugs on windows",
+      "fix downloading of some old minecraft version >1.18 ",
+      "add more animation && Quality of life",
+      "improvement with behavior and launch",
+      "improve desktop shortcut launching ui"
     ]
   }
 }
