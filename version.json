@@ -1,6 +1,6 @@
 {
   "windows": {
-    "version": "2.2.9",
+    "version": "2.2.10",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.exe",
     "size_mb": 9.06,
     "changelog": [
@@ -18,7 +18,7 @@
     ]
   },
   "linux": {
-    "version": "2.2.9",
+    "version": "2.2.10",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.AppImage",
     "size_mb": 79.85,
     "changelog": [
