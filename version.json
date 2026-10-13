@@ -4,11 +4,17 @@
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.exe",
     "size_mb": 9.06,
     "changelog": [
-      "fix bugs on windows",
-      "fix downloading of some old minecraft version >1.18 ",
-      "add more animation && Quality of life",
-      "improvement with behavior and launch",
-      "improve desktop shortcut launching ui"
+      "Redesigned and organized the Settings menu",
+      "Added a dedicated Storage section to Settings",
+      "Redesigned the Setup Wizard and Account Manager",
+      "Updated UI colors and added tab switching animations",
+      "Fixed background image rendering",
+      "Removed window shadow on Windows",
+      "Optimized default JVM arguments",
+      "Fixed instance installation bugs",
+      "Fixed Microsoft login not refreshing the auth code on failure",
+      "Improved update changelog layout and formatting",
+      "General bug fixes and stability improvements"
     ]
   },
   "linux": {
@@ -16,18 +22,34 @@
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.AppImage",
     "size_mb": 79.85,
     "changelog": [
-      "fix bugs on windows",
-      "fix downloading of some old minecraft version >1.18 ",
-      "add more animation && Quality of life",
-      "improvement with behavior and launch",
-      "improve desktop shortcut launching ui"
+      "Redesigned and organized the Settings menu",
+      "Added a dedicated Storage section to Settings",
+      "Redesigned the Setup Wizard and Account Manager",
+      "Updated UI colors and added tab switching animations",
+      "Fixed background image rendering",
+      "Removed window shadow on Windows",
+      "Optimized default JVM arguments",
+      "Fixed instance installation bugs",
+      "Fixed Microsoft login not refreshing the auth code on failure",
+      "Improved update changelog layout and formatting",
+      "General bug fixes and stability improvements"
     ]
   },
   "logs": {
-    "2.2.9": [
-      "add new stuff"
+    "2.2.10": [
+      "Redesigned and organized the Settings menu",
+      "Added a dedicated Storage section to Settings",
+      "Redesigned the Setup Wizard and Account Manager",
+      "Updated UI colors and added tab switching animations",
+      "Fixed background image rendering",
+      "Removed window shadow on Windows",
+      "Optimized default JVM arguments",
+      "Fixed instance installation bugs",
+      "Fixed Microsoft login not refreshing the auth code on failure",
+      "Improved update changelog layout and formatting",
+      "General bug fixes and stability improvements"
     ],
-    "2.2.8": [
+    "2.2.9": [
       "fix bugs on windows",
       "fix downloading of some old minecraft version >1.18",
       "add more animation && Quality of life",
