@@ -14,12 +14,22 @@
   "linux": {
     "version": "2.2.9",
     "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.AppImage",
-    "zsync_url": "",
     "size_mb": 79.85,
-    "zsync_size_mb": 0,
     "changelog": [
       "fix bugs on windows",
       "fix downloading of some old minecraft version >1.18 ",
+      "add more animation && Quality of life",
+      "improvement with behavior and launch",
+      "improve desktop shortcut launching ui"
+    ]
+  },
+  "logs": {
+    "2.2.9": [
+      "add new stuff"
+    ],
+    "2.2.8": [
+      "fix bugs on windows",
+      "fix downloading of some old minecraft version >1.18",
       "add more animation && Quality of life",
       "improvement with behavior and launch",
       "improve desktop shortcut launching ui"
