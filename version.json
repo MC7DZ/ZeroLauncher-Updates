@@ -1,7 +1,7 @@
 {
   "windows": {
     "version": "2.2.10",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.exe",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.10/Zero.Launcher.exe",
     "size_mb": 9.06,
     "changelog": [
       "Redesigned and organized the Settings menu",
@@ -19,7 +19,7 @@
   },
   "linux": {
     "version": "2.2.10",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.9/Zero.Launcher.AppImage",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.10/Zero.Launcher.AppImage",
     "size_mb": 79.85,
     "changelog": [
       "Redesigned and organized the Settings menu",
