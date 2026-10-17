@@ -1,41 +1,33 @@
 {
   "windows": {
-    "version": "2.2.10",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.10/Zero.Launcher.exe",
-    "size_mb": 9.06,
+    "version": "2.2.11",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.11/Zero.Launcher.exe",
+    "size_mb": 9.26,
     "changelog": [
-      "Redesigned and organized the Settings menu",
-      "Added a dedicated Storage section to Settings",
-      "Redesigned the Setup Wizard and Account Manager",
-      "Updated UI colors and added tab switching animations",
-      "Fixed background image rendering",
-      "Removed window shadow on Windows",
-      "Optimized default JVM arguments",
-      "Fixed instance installation bugs",
-      "Fixed Microsoft login not refreshing the auth code on failure",
-      "Improved update changelog layout and formatting",
-      "General bug fixes and stability improvements"
+      "improve the ram usage",
+      "fixed the middle panel in the instances Ui on small window",
+      "fixed flashing Ui bug",
+      "fixed more bugs"
     ]
   },
   "linux": {
-    "version": "2.2.10",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.10/Zero.Launcher.AppImage",
-    "size_mb": 79.85,
+    "version": "2.2.11",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.11/Zero.Launcher.AppImage",
+    "size_mb": 80.00,
     "changelog": [
-      "Redesigned and organized the Settings menu",
-      "Added a dedicated Storage section to Settings",
-      "Redesigned the Setup Wizard and Account Manager",
-      "Updated UI colors and added tab switching animations",
-      "Fixed background image rendering",
-      "Removed window shadow on Windows",
-      "Optimized default JVM arguments",
-      "Fixed instance installation bugs",
-      "Fixed Microsoft login not refreshing the auth code on failure",
-      "Improved update changelog layout and formatting",
-      "General bug fixes and stability improvements"
+      "improve the ram usage",
+      "fixed the middle panel in the instances Ui on small window",
+      "fixed flashing Ui bug",
+      "fixed more bugs"
     ]
   },
   "logs": {
+    "2.2.11": [
+      "improve the ram usage",
+      "fixed the middle panel in the instances Ui on small window",
+      "fixed flashing Ui bug",
+      "fixed more bugs"
+    ],
     "2.2.10": [
       "Redesigned and organized the Settings menu",
       "Added a dedicated Storage section to Settings",
