@@ -1,27 +1,35 @@
 {
   "windows": {
-    "version": "2.2.11",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.11/Zero.Launcher.exe",
+    "version": "2.3.0",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.3.0/Zero.Launcher.exe",
     "size_mb": 9.26,
     "changelog": [
-      "improve the ram usage",
-      "fixed the middle panel in the instances Ui on small window",
-      "fixed flashing Ui bug",
-      "fixed more bugs"
+      "update your Version to see the changelogs"
     ]
   },
   "linux": {
-    "version": "2.2.11",
-    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.2.11/Zero.Launcher.AppImage",
+    "version": "2.3.0",
+    "url": "https://github.com/MC7DZ/Zero-Launcher/releases/download/v2.3.0/ZeroLauncher_2.3.0_amd64.AppImage",
     "size_mb": 80.00,
     "changelog": [
-      "improve the ram usage",
-      "fixed the middle panel in the instances Ui on small window",
-      "fixed flashing Ui bug",
-      "fixed more bugs"
+      "update your Version to see the changelogs"
     ]
   },
   "logs": {
+    "2.3.0": [
+      "fixed shortcut launch freeze and overlay window layering",
+      "improved tray icon responsiveness on single and double click",
+      "added per-instance 'Always launch offline' toggle",
+      "redesigned Add Server dialog with live icon preview and address validation",
+      "added Smart Java detection to reuse installed Java versions (>= 16)",
+      "fixed crash when cancelling downloads",
+      "fixed Add Server dialog visual bugs and empty server list issues",
+      "improved storage calculation and fixed opening folder paths on Windows",
+      "improved UI sound playback and adjusted overall sound volume",
+      "added Discord webhook integration for crash and freeze reports",
+      "fixed duplicate shortcut cards and improved shortcut registry management",
+      "added prompt to clean up shortcuts when target instance no longer exists"
+    ],
     "2.2.11": [
       "improve the ram usage",
       "fixed the middle panel in the instances Ui on small window",
